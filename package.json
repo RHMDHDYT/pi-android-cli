@@ -1,6 +1,6 @@
 {
   "name": "pi-android-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Android CLI tools for pi — Gradle, ADB, Emulator, Logcat, Layout Inspector, and Android Knowledge Base integration.",
   "keywords": [
     "pi-package",
