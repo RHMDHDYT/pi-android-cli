@@ -1,6 +1,12 @@
 # pi-android-cli
 
+[![npm version](https://badge.fury.io/js/pi-android-cli.svg)](https://www.npmjs.com/package/pi-android-cli)
+
 Android development tools for [pi](https://pi.dev), bridging the official Android CLI and low-level SDK binaries.
+
+- 📦 [npm](https://www.npmjs.com/package/pi-android-cli)
+- 🔗 [GitHub](https://github.com/RHMDHDYT/pi-android-cli)
+- 🖼️ [pi.dev/packages](https://pi.dev/packages/pi-android-cli)
 
 ## Tools
 
@@ -23,22 +29,28 @@ Android development tools for [pi](https://pi.dev), bridging the official Androi
 
 ## Install
 
-### Via npm
+### From npm (recommended)
 
 ```bash
 pi install npm:pi-android-cli
 ```
 
-### Via git
+Or pinned to a version:
 
 ```bash
-pi install git:github.com/RHMDHDYT/pi-android-cli
+pi install npm:pi-android-cli@1.0.0
+```
+
+### From git
+
+```bash
+pi install git:github.com/RHMDHDYT/pi-android-cli@v1.0.0
 ```
 
 ### Local (project-only)
 
 ```bash
-pi install git:github.com/RHMDHDYT/pi-android-cli@v1.0.0 -l
+pi install ./path/to/pi-android-cli -l
 ```
 
 ## Requirements
