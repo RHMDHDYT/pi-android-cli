@@ -32,13 +32,13 @@ pi install npm:pi-android-cli
 ### Via git
 
 ```bash
-pi install git:github.com/qasir/pi-android-cli
+pi install git:github.com/RHMDHDYT/pi-android-cli
 ```
 
 ### Local (project-only)
 
 ```bash
-pi install ./.pi/android-cli -l
+pi install git:github.com/RHMDHDYT/pi-android-cli@v1.0.0 -l
 ```
 
 ## Requirements

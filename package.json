@@ -12,10 +12,10 @@
     "logcat",
     "mobile"
   ],
-  "homepage": "https://github.com/qasir/pi-android-cli",
+  "homepage": "https://github.com/RHMDHDYT/pi-android-cli",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qasir/pi-android-cli.git"
+    "url": "https://github.com/RHMDHDYT/pi-android-cli.git"
   },
   "license": "MIT",
   "author": "Qasir Team",
