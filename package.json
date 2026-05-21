@@ -1,0 +1,31 @@
+{
+  "name": "pi-android-cli",
+  "version": "1.0.0",
+  "description": "Android CLI tools for pi — Gradle, ADB, Emulator, Logcat, Layout Inspector, and Android Knowledge Base integration.",
+  "keywords": [
+    "pi-package",
+    "android",
+    "cli",
+    "adb",
+    "gradle",
+    "emulator",
+    "logcat",
+    "mobile"
+  ],
+  "homepage": "https://github.com/qasir/pi-android-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qasir/pi-android-cli.git"
+  },
+  "license": "MIT",
+  "author": "Qasir Team",
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "typebox": "*"
+  },
+  "pi": {
+    "extensions": [
+      "./extensions/android-cli.ts"
+    ]
+  }
+}
