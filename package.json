@@ -26,6 +26,7 @@
   "pi": {
     "extensions": [
       "./extensions/android-cli.ts"
-    ]
+    ],
+    "image": "https://raw.githubusercontent.com/RHMDHDYT/pi-android-cli/main/banner.png"
   }
 }
